@@ -1,6 +1,6 @@
 # Three NLP libraries under a linguist's microscope: which one is be better for which task?
 
-![]()
+![image of a hand holding a tiny robot](AdobeStock_323830067.jpeg)
 
 ## NLTK, spaCy or scikit-learn? 
 
